@@ -1,5 +1,3 @@
-package util;
-
 /**
  * Utility tool to read and write dates.
  * @author PaulOthar
